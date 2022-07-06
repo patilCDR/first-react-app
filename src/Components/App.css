@@ -1,0 +1,10 @@
+h3 {
+  font-weight: 900;
+  background-color: lightgray;
+  padding: 50px;
+  text-align: center;
+}
+
+.container {
+  margin: 10px;
+}
