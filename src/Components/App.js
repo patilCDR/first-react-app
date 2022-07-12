@@ -14,6 +14,9 @@ import StateAndProps from "./StateAndProps";
 import Use_Effect from "./Use_Effect";
 import { Use_State } from "./Use_State";
 import Calc from "./Calc";
+import Registration from "./Registration";
+import Reg from "./Reg";
+// import Reg from "../Reg";
 
 const App = () => {
   return (
@@ -33,6 +36,8 @@ const App = () => {
       <Signup_Form />
       <Login_Form />
       <Calc />
+      <Registration />
+      <Reg/>
     </div>
   );
 };
